@@ -24,7 +24,9 @@
 <label for="Mother name"><b>Mother Name</b></label>
     <input type="text" placeholder="Enter Name" name="Mother Name" id="Mother Name" required>
     <br>
-
+<label for="aadhar"><b>Aadhar Card Number</b></label>
+<input type="text" placeholder="Enter Aadhar Number" name="aadhar" id="aadhar" required>
+<br>
 
     <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
     <button type="submit" class="registerbtn">Register</button>
