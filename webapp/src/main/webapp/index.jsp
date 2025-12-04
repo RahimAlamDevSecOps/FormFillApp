@@ -40,6 +40,10 @@
 <input type="text" placeholder="Enter Sister's Name" name="sister" id="sister" required>
 <br>
 
+<label for="son"><b>Son</b></label>
+<input type="text" placeholder="Enter Son's Name" name="son" id="son" required>
+<br>
+
     <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
     <button type="submit" class="registerbtn">Register</button>
   </div>
