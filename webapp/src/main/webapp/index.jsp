@@ -48,6 +48,9 @@
 <input type="text" placeholder="Enter Grandfather's Name" name="grandfather" id="grandfather" required>
 <br>
 
+<label for="cousin_sister"><b>Cousin Sister</b></label>
+<input type="text" placeholder="Enter Cousin Sister's Name" name="cousin_sister" id="cousin_sister" required>
+<br>
 
 
 
