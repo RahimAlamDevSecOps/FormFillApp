@@ -59,11 +59,7 @@
 <input type="text" placeholder="Enter Spouse's Name" name="spouse" id="spouse" required>
 <br>
 
-<label for="cousin_brother"><b>Cousin Brother</b></label>
-<input type="text" placeholder="Enter Cousin Brother's Name" name="cousin_brother" id="cousin_brother" required>
-<br>
-
-    <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
+<p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
     <button type="submit" class="registerbtn">Register</button>
   </div>
 
