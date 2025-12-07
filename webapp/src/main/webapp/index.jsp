@@ -48,6 +48,10 @@
 <input type="text" placeholder="Enter Grandfather's Name" name="grandfather" id="grandfather" required>
 <br>
 
+<label for="grandmother"><b>Grandmother</b></label>
+<input type="text" placeholder="Enter Grandmother's Name" name="grandmother" id="grandmother" required>
+<br>
+
     <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
     <button type="submit" class="registerbtn">Register</button>
   </div>
