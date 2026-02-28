@@ -28,7 +28,9 @@
 <label for="father"><b>Father</b></label>
 <input type="text" placeholder="Enter Father's Name" name="father" id="father" required>
 <br>
-
+<label for="grandfather"><b>Grandfather</b></label>
+<input type="text" placeholder="Enter Grandfather's Name" name="grandfather" id="grandfather" required>
+<br>
 <label for="grandmother"><b>Grandmother</b></label>
 <input type="text" placeholder="Enter Grandmother's Name" name="grandmother" id="grandmother" required>
 <br>
