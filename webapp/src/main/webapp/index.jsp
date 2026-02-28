@@ -29,8 +29,12 @@
 <input type="text" placeholder="Enter Father's Name" name="father" id="father" required>
 <br>
 
-
-
+<label for="cousin"><b>Cousin</b></label>
+<input type="text" placeholder="Enter Cousin's Name" name="cousin" id="cousin" required>
+<br>
+<label for="grandmother"><b>Grandmother</b></label>
+<input type="text" placeholder="Enter Grandmother's Name" name="grandmother" id="grandmother" required>
+<br>
 
     <button type="submit" class="registerbtn">Register</button>
   </div>
