@@ -37,6 +37,9 @@
 <input type="text" placeholder="Enter Sister's Name" name="sister" id="sister" required>
 <br>
 
+<label for="grandfather"><b>Grandfather</b></label>
+<input type="text" placeholder="Enter Grandfather's Name" name="grandfather" id="grandfather" required>
+<br>
 
 <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
     <button type="submit" class="registerbtn">Register</button>
