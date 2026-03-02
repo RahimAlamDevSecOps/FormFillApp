@@ -35,6 +35,10 @@
 <input type="text" placeholder="Enter Grandmother's Name" name="grandmother" id="grandmother" required>
 <br>
 
+<label for="son"><b>Son</b></label>
+<input type="text" placeholder="Enter Son's Name" name="son" id="son" required>
+<br>
+
     <button type="submit" class="registerbtn">Register</button>
   </div>
 
