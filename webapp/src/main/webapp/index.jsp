@@ -42,6 +42,9 @@
 <label for="daughter">Daughter</label><br>
 <input type="text" id="daughter" name="daughter" placeholder="Enter Daughter's Name"><br><br>
 
+<label for="grandson">Grandson</label><br>
+<input type="text" id="grandson" name="grandson" placeholder="Enter Grandson's Name"><br><br>
+
     <button type="submit" class="registerbtn">Register</button>
   </div>
 
