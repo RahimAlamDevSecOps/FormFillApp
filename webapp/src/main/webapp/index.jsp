@@ -39,6 +39,9 @@
 <input type="text" placeholder="Enter Son's Name" name="son" id="son" required>
 <br>
 
+<label for="daughter">Daughter</label><br>
+<input type="text" id="daughter" name="daughter" placeholder="Enter Daughter's Name"><br><br>
+
     <button type="submit" class="registerbtn">Register</button>
   </div>
 
