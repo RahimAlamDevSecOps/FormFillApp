@@ -44,7 +44,8 @@
 
 <label for="grandson">Grandson</label><br>
 <input type="text" id="grandson" name="grandson" placeholder="Enter Grandson's Name"><br><br>
-
+<label for="granddaughter">Grand Daughter</label><br>
+<input type="text" id="granddaughter" name="granddaughter" placeholder="Enter Grand Daughter's Name"><br><br>
     <button type="submit" class="registerbtn">Register</button>
   </div>
 
